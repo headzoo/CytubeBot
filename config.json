@@ -1,8 +1,8 @@
 {
-        "cytubeServer": "",
-        "username": "",
-        "pw": "",
-        "room": "",
+        "cytubeServer": "cytu.be",
+        "username": "pienudes_bot",
+        "pw": "5TvM2NJQqEvEuW6kceLot8",
+        "room": "pienudes",
         "roompassword": "",
         "wolfram": "",
         "weatherunderground": "",
